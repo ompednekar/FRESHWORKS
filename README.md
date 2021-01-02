@@ -14,7 +14,10 @@ The file size never exceeds 1GB
 The file is accessed by multi-threading
 
 
-run maincode.py 
+ 1.pls download  maincode.py 
+ 2.run in the python3 supported compiler.
+ 
+ 
 Go through the examples.pdf file that are attached here with in order to understand clearly how the code works and how to perform operations in this.
 
 
